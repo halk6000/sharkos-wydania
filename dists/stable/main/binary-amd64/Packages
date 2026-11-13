@@ -1,0 +1,432 @@
+Package: sharkos
+Version: 0.3.2~rc1
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 2240
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc1_all.deb
+Size: 1257872
+MD5sum: 629ba9c89c814deb54188f906cdc7875
+SHA1: c234959226ef8caa9d0537272c7d96a4f40876da
+SHA256: 1bb43c0063fb4e522e5d9e3565a87fe7fb8e7d2e030d54c09570795ba707502d
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc10
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4936
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc10_all.deb
+Size: 4136332
+MD5sum: 72c65620d0e1d8a972e108f10c0ec3fc
+SHA1: 000fb2842124354f5c79f4e654acf327d15ac3cf
+SHA256: 8bf8efe74f4966f3d80703da6f74cb7b293b55dab8e61091f2bd6a0d4c31d862
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc12
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5028
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, pkexec, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc12_all.deb
+Size: 4152180
+MD5sum: 43d7b494726c60cff18ccee19beb0247
+SHA1: 9ace6b4ec9a320772d9d461af8fdd05b81f1e42f
+SHA256: 00e606c2caa27dba046f2dd3ee37b65fec0ac4b204c2dd17135e6c12025e219c
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc13
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5028
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc13_all.deb
+Size: 4152696
+MD5sum: 5b6cb87ff2533fceafd2578a3f755265
+SHA1: 01cf63ce9b2989ca81cba13dae54dc317e7fd914
+SHA256: 2cf624e15fbe8c4d1e3b265ff755f8b3c17a1442f9362fb55a8344eb40dc33b7
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc14
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5032
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc14_all.deb
+Size: 4152868
+MD5sum: 08b1caffa8d04c512223a02994a9eb6a
+SHA1: 6bbfd90c0c921c14fef51fb0887271daa5d3235b
+SHA256: b4a2373a25952f09ce0ec05415f91cf067f170fccc9faeadedf5543915924ad0
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc15
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5044
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, console-setup, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc15_all.deb
+Size: 4153568
+MD5sum: 92462223fc74ab3dc5b569eb77bd6b3b
+SHA1: 5f9cf66433416a007f14d2a8898ee1e391d01883
+SHA256: bbbb39573faabe6c6adf896bfe627c61f8de7cb097b0070a003e25c7c401b7f6
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc16
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5052
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, console-setup, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc16_all.deb
+Size: 4154476
+MD5sum: 276a810e8a27fee6b0e5a25fc3a5dc5b
+SHA1: 58db6e2c3469631ecf6c5f5961c2d2ea4ddd795d
+SHA256: 9e3a44b9edc1ef6638864a26b35e33917025d4b7eda1270891c2665bd9b57ef0
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc17
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5068
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, console-setup, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git, speech-dispatcher, speech-dispatcher-espeak-ng
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc17_all.deb
+Size: 4158124
+MD5sum: 21b5946303ba3969b148dce6a50a46ed
+SHA1: ca4f9ae9543eeb1c21262fa7e09b858f45d1ab13
+SHA256: 396666c6edda95f7b8835c59d10092fd09ffb38c756534210c3bd05e10d7a89e
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc18
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5112
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, console-setup, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git, speech-dispatcher, speech-dispatcher-espeak-ng
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc18_all.deb
+Size: 4163336
+MD5sum: 0dd6cd7c0380ec57ccf227638f5e8760
+SHA1: 34dad22b7fc30d48461c99873c705163ac8ef34e
+SHA256: 8b4b70a73ce8979cbee51a6b64c0f24952e6f65eaf45912244c71b3e38334c77
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc19
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 5132
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, console-setup, udisks2, polkitd, pkexec, systemd-timesyncd | time-daemon, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git, speech-dispatcher, speech-dispatcher-espeak-ng, dosfstools, wimtools
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc19_all.deb
+Size: 4166916
+MD5sum: 37574dfab528cb529bddaf290a987c1c
+SHA1: b424fb7ec33c035609da4eff9a18a53c08cee45a
+SHA256: 10a36e431c91305b1dfa129dc8b66b1a9d3ab08d63b828da4571ca4379bcb943
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc2
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4828
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc2_all.deb
+Size: 4115692
+MD5sum: 6cbf961e95d85a7dedf147d4284e23c7
+SHA1: 9c3d8b4e2eb08d98533f488c426f3a5089c42db3
+SHA256: a73ba3557218f06cd7a15de6cceb03dc7a754c0e17052ff8bcd099e6d6b8c920
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc3
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4868
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc3_all.deb
+Size: 4121884
+MD5sum: bfe9e095e3e07de581a94b91790a8950
+SHA1: 4f3b5525915b83f6469a9efb75b15c9e3a68e200
+SHA256: 4f1f6fe14232ff40ed827f1d89c7ef9c85953cecb583749e2ff0a00c869d56af
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc6
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4892
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc6_all.deb
+Size: 4127356
+MD5sum: bd56b6d87c3145161a2d73d35566336a
+SHA1: 12b86a2c044053067ce69d784a8604d400c2e340
+SHA256: b4b3b831f71f63a0ec49e11c9389cddea6a51af445a4c19fcd38a2081fb3bd8f
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc7
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4896
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc7_all.deb
+Size: 4128164
+MD5sum: d876b4476810f71efd60d4043859a097
+SHA1: 4dd2428f51ba43801cf9e5664ba7de82dda92bc4
+SHA256: 0246823bfe115929fbf1ce708dca2748d26beceb5bcd416de2e313e17fbfffce
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc8
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4912
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc8_all.deb
+Size: 4130056
+MD5sum: 98afd65c8f1bbfcd3ffb0325bf6fb8a7
+SHA1: 3b9dc216232f38df62b4544d052c368ccbca664a
+SHA256: d01c0dedf2354e3d62df624b7366c04f52a3f70b20d86bdf5ada747d3b75cb8c
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+
+Package: sharkos
+Version: 0.3.2~rc9
+Architecture: all
+Maintainer: halk6000 <halk6000@users.noreply.github.com>
+Installed-Size: 4916
+Depends: python3 (>= 3.9), systemd, init-system-helpers (>= 1.57)
+Recommends: cage, chromium, udisks2, polkitd, ntfs-3g, fonts-jetbrains-mono, btrfs-progs, initramfs-tools, plymouth, plymouth-label, sudo, curl, git
+Suggests: nodejs
+Filename: pool/main/s/sharkos/sharkos_0.3.2~rc9_all.deb
+Size: 4131300
+MD5sum: 792e59c71a22362417266d89c0889bff
+SHA1: a0b5b0537f69ea999118f94799aa13b176b46148
+SHA256: 603978dd1edae2f93c254431cbd6c1e9dc628353a09ca7b7e35532fd6e3d5737
+Section: misc
+Priority: optional
+Homepage: https://github.com/halk6000/sharkos
+Description: nakładka graficzna z rekinem-asystentem i usługi systemu SharkOS
+ Pakiet integracyjny SharkOS dla Debiana 13: nakładka graficzna (pulpit,
+ okna, rekin-asystent) uruchamiana w sesji kiosku (cage + chromium),
+ shark-sysd (dane systemu dla Menedżera zadań, 127.0.0.1:7378),
+ shark-assistantd (asystent AI przez Claude / OpenAI, 127.0.0.1:7377),
+ shark-agentd (okno agenta pod Home + Enter: Claude Code i Codex CLI, 127.0.0.1:7379),
+ shark-cleaner (sprzątanie po Node.js z kwarantanną) i shark-store
+ (wspólny magazyn zależności Wine / Proton / Java / Android).
+ .
+ Sesję kiosku włącza "sharkos-kiosk enable" (robi to install-sharkos.sh).
+

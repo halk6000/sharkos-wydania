@@ -1,0 +1,36 @@
+Architectures: amd64 all
+Codename: stable
+Components: main
+Date: Fri, 13 Nov 2026 16:11:33 +0000
+Description: SharkOS — pakiety systemu
+Label: SharkOS
+Origin: SharkOS
+Suite: stable
+MD5Sum:
+ f7f997513b98a6cf487ec30f6a5b4158            21903 main/binary-all/Packages
+ cca2fa9c5f152a6f1e201f8821b75f3f             2722 main/binary-all/Packages.gz
+ 1f72bd6830634e21cd836011a986a251               81 main/binary-all/Release
+ f7f997513b98a6cf487ec30f6a5b4158            21903 main/binary-amd64/Packages
+ cca2fa9c5f152a6f1e201f8821b75f3f             2722 main/binary-amd64/Packages.gz
+ a638bac0983e7cea4ec4f46d7961c82e               83 main/binary-amd64/Release
+SHA1:
+ 806cbea51a4dce4ffbcf0e2943001212b784406a            21903 main/binary-all/Packages
+ 6d722856b37af0c4ecf467ff2e9afcdd672b3e98             2722 main/binary-all/Packages.gz
+ 8cb86cd789de4f946d9c8b40e14a878b7aae9c42               81 main/binary-all/Release
+ 806cbea51a4dce4ffbcf0e2943001212b784406a            21903 main/binary-amd64/Packages
+ 6d722856b37af0c4ecf467ff2e9afcdd672b3e98             2722 main/binary-amd64/Packages.gz
+ 664ade669a373047ecc3244666ed2668336bfc82               83 main/binary-amd64/Release
+SHA256:
+ 8c222b9371bed02a5c83c5d6c46e1a24d1bbb35a99ead338d55324c4089baf28            21903 main/binary-all/Packages
+ 164a18886a749077d6eecebdfb8dbb43dcb4d144c36566d644eff5102bb0b21d             2722 main/binary-all/Packages.gz
+ 2a507e1f78d23f31a08ed565d53c3b7d7f9bd27afcfdb8a8ac02921b5aa7d060               81 main/binary-all/Release
+ 8c222b9371bed02a5c83c5d6c46e1a24d1bbb35a99ead338d55324c4089baf28            21903 main/binary-amd64/Packages
+ 164a18886a749077d6eecebdfb8dbb43dcb4d144c36566d644eff5102bb0b21d             2722 main/binary-amd64/Packages.gz
+ 4a758356da29f2fec0e6bfff3f2629fecffb13e6fc262f85c3fcf39e0b5c85c7               83 main/binary-amd64/Release
+SHA512:
+ 873c72e1f0b4d947034bd82f78b855fd022da31886156295fa44098bb2204d08677d326bdb2a57a2d50d6819d16565f59d9dce9f79d2d943ee6b5019d924e886            21903 main/binary-all/Packages
+ 97465d67671757226415db52444cc003f5c5a3a979fb3ae4054f27dd449ccd3ea1322c4265d41a86a8bab0bc123ea5c03e1182dd5e433e16244429ebfd0ea463             2722 main/binary-all/Packages.gz
+ b927ec320d3a2d1a2b60835fa9f3baeca5437ecc79b77ea7940cbea6bad2f426817379b289d3b67282a05e068fde418fc87167f85dcff9701466b19f7854c3e6               81 main/binary-all/Release
+ 873c72e1f0b4d947034bd82f78b855fd022da31886156295fa44098bb2204d08677d326bdb2a57a2d50d6819d16565f59d9dce9f79d2d943ee6b5019d924e886            21903 main/binary-amd64/Packages
+ 97465d67671757226415db52444cc003f5c5a3a979fb3ae4054f27dd449ccd3ea1322c4265d41a86a8bab0bc123ea5c03e1182dd5e433e16244429ebfd0ea463             2722 main/binary-amd64/Packages.gz
+ e6308650f78698f72d526f2d24f38b8d36b206a3034d08722c31654f9f09c9a0aa772e09220a3555dc744465f4b4550b3ddf86ce2c7b28053508b6038e2afd2a               83 main/binary-amd64/Release
